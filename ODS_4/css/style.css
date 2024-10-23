@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none; 
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+
+.header{
+    display: flex; 
+    color: red;
+    margin: 1rem;
+    margin: auto;
+    justify-content: center;
+    background-color: rgb(0, 0, 255, 0.5);
+    font-size: 1rem;
+    border-radius: 2rem;
+}
+.figure{
+    padding-left: 50rem;
+    vertical-align: bottom;
+    margin-top: 2rem;
+    height: 150%;
+    filter: drop-shadow(0 0 10px rgb(0, 0, 0, .8));
+    border-radius: 2rem;
+    justify-content: center;
+    display: flex;
+}
+
+.nav{
+    display: flex;
+    padding-bottom: 2rem;
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+    font-size: 1.3rem;
+    list-style: none;  
+    gap: 2rem;
+   }
+   .nav a {
+    color: black;
+    transition: color 0.3 ease;
+   }
+   .aside{
+    background-color: azure;
+   }
+   
+   .texto{
+    margin-top: 2rem;
+    padding-left: 2rem;
+    font-size: 1rem;
+    gap: 2rem;
+    background-color: azure;
+    height: 20vh;
+   }
+
+   .texto2{
+    margin-top: 2rem;
+    padding-left: 2rem;
+    font-size: 1rem;
+    gap: 2rem;
+    color: #444444;
+    height: 20vh;
+   }
+
+
+   
+   .texto3{
+    margin-top: 2rem;
+    padding-left: 2rem;
+    font-size: 1rem;
+    gap: 2rem;
+    height: 20vh;
+   }
+
+   .texto4{
+    margin-top: 2rem;
+    padding-left: 2rem;
+    font-size: 1rem;
+    gap: 2rem;
+    color: #444444;
+    height: 20vh;
+   }
+   
+
+   .footer{
+   text-align: center;
+   background-color: bisque;
+   font-size: 1.2rem;
+   }
+
+   /* inicio*/
+
+   .titulo{
+    color: red;
+   text-align: center;
+   }
+   .list{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-size: 1.5rem;
+   }
+
+   .inicio{
+    margin: 2rem;
+    display: grid; 
+    
+    display: flex;
+    color: red;
+    height: 100vh;
+   }
+   .footer2{
+    text-align: center;
+    background-color: bisque;
+    font-size: 1.2rem;
+   }
+   /* registro*/
+   .titulo3{
+    background-color: azure;
+}
+
+   .formulario{
+    font-size: 1.3rem;
+    height: 100vh;
+    text-align: center;
+    display: grid;
+    background-color: azure;
+   }
+   
+
+   .footer2{
+    text-align: center;
+    background-color: bisque;
+    font-size: 1.2rem;
+    }
+    .devolver{
+        padding: 2rem;
+        text-decoration: none;
+        list-style: none;
+        font-size: 1.3rem;
+        display: flex;
+      background-color: azure;
+    }
+    /*contacto*/
+    .tittle{
+        color: red;
+        text-align: center;
+    }
+
+    .volver2{
+        list-style: none;
+        text-decoration: none;
+        display: flex;
+        padding-left: 2rem;
+        background-color: mintcream;
+    }
+
+    .text2{
+        font-size: 1.5rem;
+        text-align: center;
+        color: red;
+        height: 100vh;
+    }
+    
+    .footer2{
+        text-align: center;
+        background-color: bisque;
+        font-size: 1.2rem;
+        }
+ 
